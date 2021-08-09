@@ -1,0 +1,157 @@
+[
+  {
+    "libraryIdentifier" : "ac7c34e2d42936d78e7d24482eb3f5ed",
+    "format" : "model",
+    "displayName" : "gobe_medium.usdz"
+  },
+  {
+    "libraryIdentifier" : "c940cbc198b0a227566d781fb22393aa",
+    "format" : "model",
+    "displayName" : "beidou-25k.usdz"
+  },
+  {
+    "libraryIdentifier" : "c32b8a17914059d364c9dd6961a76f06",
+    "format" : "model",
+    "displayName" : "beidou-35k -2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "69989ad59c035c8d4ae7981f99cab296",
+    "format" : "model",
+    "displayName" : "Cosmos - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "06a765623980e60cbe2822cc42f84acc",
+    "format" : "model",
+    "displayName" : "FENGYUN - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "ad4d89e105e7256a5d84e70e2e2c5d13",
+    "format" : "model",
+    "displayName" : "gelileo - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "ed20ff8f77f7ec37a4d0c2ee51c97f5a",
+    "format" : "model",
+    "displayName" : "GeoComms - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "fd46c654c50ea249101dd5bdc814ee57",
+    "format" : "model",
+    "displayName" : "glonass - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "e530e50c14166996ecdc65abff184792",
+    "format" : "model",
+    "displayName" : "GPS - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "404f0f4445670d8ae924d493a83f24d1",
+    "format" : "model",
+    "displayName" : "IRIDIUM - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "17079209d3abd1d42083d6b940bf079e",
+    "format" : "model",
+    "displayName" : "OneWeb - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "aa753194a1daa59e47d9672e5456ee8d",
+    "format" : "model",
+    "displayName" : "Planet Labs - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "319983c4d911f4b94d52dbfc41d00c5c",
+    "format" : "model",
+    "displayName" : "space-stations.usdz"
+  },
+  {
+    "libraryIdentifier" : "ef4a3de195fa52bec4d0d7031e2d4962",
+    "format" : "model",
+    "displayName" : "Starlink - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "ef8d19c99c871188953645dc522dd287",
+    "format" : "model",
+    "displayName" : "weather-25k.001.usdz"
+  },
+  {
+    "libraryIdentifier" : "2b561a8d3ca52e4ad937c92dc109b43e",
+    "format" : "model",
+    "displayName" : "weather-51k.001.usdz"
+  },
+  {
+    "libraryIdentifier" : "9458dd54b52e521e3954ddf88b26c884",
+    "format" : "model",
+    "displayName" : "beidou-25k.usdz"
+  },
+  {
+    "libraryIdentifier" : "fa5aee9d85fd88db58240501cecb8258",
+    "format" : "model",
+    "displayName" : "beidou-35k -2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "9753d4958caeea4fc5dbb854e6bdeffc",
+    "format" : "model",
+    "displayName" : "Cosmos - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "ebd2694ad06b72b49636f723cc01f734",
+    "format" : "model",
+    "displayName" : "FENGYUN - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "e68ff43c09131f6aa7a3c3dd2b7e2ebf",
+    "format" : "model",
+    "displayName" : "gelileo - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "b384facdfb167cbd867fc8f9b517ea5f",
+    "format" : "model",
+    "displayName" : "GeoComms - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "b22d9a437ba383a9c0417c01420e6e76",
+    "format" : "model",
+    "displayName" : "glonass - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "522cf772660386af6848b12871d8d37f",
+    "format" : "model",
+    "displayName" : "GPS - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "7b39930a36900114eba16c393d035a52",
+    "format" : "model",
+    "displayName" : "IRIDIUM - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "4efb12cb5418157cc8df42894f7de31d",
+    "format" : "model",
+    "displayName" : "OneWeb - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "e5e0726614638684572e63082bd6882c",
+    "format" : "model",
+    "displayName" : "Planet Labs - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "97c32944f71e86ef581c4e196b03f4c3",
+    "format" : "model",
+    "displayName" : "space-stations.usdz"
+  },
+  {
+    "libraryIdentifier" : "2f331056649f6b43428bfce5a17c326e",
+    "format" : "model",
+    "displayName" : "Starlink - 2m.usdz"
+  },
+  {
+    "libraryIdentifier" : "1c8284ed0602f39bb5a5a5871db7fd06",
+    "format" : "model",
+    "displayName" : "weather-25k.001.usdz"
+  },
+  {
+    "libraryIdentifier" : "7483d32171ad7bd7e9a29d7cba4e107c",
+    "format" : "model",
+    "displayName" : "weather-51k.001.usdz"
+  }
+]
