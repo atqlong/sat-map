@@ -1,0 +1,17 @@
+[
+  {
+    "libraryIdentifier" : "dc99a768e7e6e4cea051a4312a81c145",
+    "format" : "image",
+    "displayName" : "Galileo.png"
+  },
+  {
+    "libraryIdentifier" : "11685f9e3491e95933aa543c150cf99a",
+    "format" : "model",
+    "displayName" : "LunarRover.reality"
+  },
+  {
+    "libraryIdentifier" : "b384facdfb167cbd867fc8f9b517ea5f",
+    "format" : "model",
+    "displayName" : "GeoComms - 2m.usdz"
+  }
+]

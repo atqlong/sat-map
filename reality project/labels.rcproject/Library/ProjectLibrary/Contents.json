@@ -1,0 +1,22 @@
+[
+  {
+    "libraryIdentifier" : "f75744ed7a47883eb59f00541a0e9916",
+    "format" : "model",
+    "displayName" : "label-circle.usdz"
+  },
+  {
+    "libraryIdentifier" : "88311dc9cdc459467a42a45acabf8916",
+    "format" : "model",
+    "displayName" : "label-ring.usdz"
+  },
+  {
+    "libraryIdentifier" : "a7788ef59feaad1f91ae73faee2655c9",
+    "format" : "image",
+    "displayName" : "Starlink.png"
+  },
+  {
+    "libraryIdentifier" : "11685f9e3491e95933aa543c150cf99a",
+    "format" : "model",
+    "displayName" : "LunarRover.reality"
+  }
+]

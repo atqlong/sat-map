@@ -153,5 +153,25 @@
     "libraryIdentifier" : "7483d32171ad7bd7e9a29d7cba4e107c",
     "format" : "model",
     "displayName" : "weather-51k.001.usdz"
+  },
+  {
+    "libraryIdentifier" : "cd57fbfbce28e996a96ae83568a6ace7",
+    "format" : "arObject",
+    "displayName" : "globe-scan.arobject"
+  },
+  {
+    "libraryIdentifier" : "59e7d823bfb8b2aa99546bcba9310141",
+    "format" : "model",
+    "displayName" : "labels.usdz"
+  },
+  {
+    "libraryIdentifier" : "f75744ed7a47883eb59f00541a0e9916",
+    "format" : "model",
+    "displayName" : "label-circle.usdz"
+  },
+  {
+    "libraryIdentifier" : "88311dc9cdc459467a42a45acabf8916",
+    "format" : "model",
+    "displayName" : "label-ring.usdz"
   }
 ]

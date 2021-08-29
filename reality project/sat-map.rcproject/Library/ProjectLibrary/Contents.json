@@ -158,5 +158,90 @@
     "libraryIdentifier" : "cd57fbfbce28e996a96ae83568a6ace7",
     "format" : "arObject",
     "displayName" : "globe-scan.arobject"
+  },
+  {
+    "libraryIdentifier" : "59e7d823bfb8b2aa99546bcba9310141",
+    "format" : "model",
+    "displayName" : "labels.usdz"
+  },
+  {
+    "libraryIdentifier" : "f75744ed7a47883eb59f00541a0e9916",
+    "format" : "model",
+    "displayName" : "label-circle.usdz"
+  },
+  {
+    "libraryIdentifier" : "88311dc9cdc459467a42a45acabf8916",
+    "format" : "model",
+    "displayName" : "label-ring.usdz"
+  },
+  {
+    "libraryIdentifier" : "047a1e6ffb105ddfbf778318c120b3ff",
+    "format" : "image",
+    "displayName" : "Beidou.png"
+  },
+  {
+    "libraryIdentifier" : "22b13b1ae39e26d21bfcc73d377291e4",
+    "format" : "image",
+    "displayName" : "Fengyun.png"
+  },
+  {
+    "libraryIdentifier" : "c48660718bd51a0180c682beb9ebc269",
+    "format" : "image",
+    "displayName" : "Galileo.png"
+  },
+  {
+    "libraryIdentifier" : "510292c1dd3fbe04141e26ea4e0a9e36",
+    "format" : "image",
+    "displayName" : "Geo-Comms.png"
+  },
+  {
+    "libraryIdentifier" : "1bc1476a862416ba6383743176ee9eeb",
+    "format" : "image",
+    "displayName" : "Glonass.png"
+  },
+  {
+    "libraryIdentifier" : "2c9f0ed79cb1f29d9d246bdbf054973f",
+    "format" : "image",
+    "displayName" : "GPS.png"
+  },
+  {
+    "libraryIdentifier" : "a89dd82d8ab5d213963792c25dd6c54f",
+    "format" : "image",
+    "displayName" : "Iridium.png"
+  },
+  {
+    "libraryIdentifier" : "78c31aa0c1ed8b7535b821a4c1fedd81",
+    "format" : "image",
+    "displayName" : "Kosmos.png"
+  },
+  {
+    "libraryIdentifier" : "66c2a4614edb7ce68152e10c28a5dcf0",
+    "format" : "image",
+    "displayName" : "OneWeb.png"
+  },
+  {
+    "libraryIdentifier" : "86cb1013a918b038bf5f76e2d9a77e29",
+    "format" : "image",
+    "displayName" : "Space Stations.png"
+  },
+  {
+    "libraryIdentifier" : "a7788ef59feaad1f91ae73faee2655c9",
+    "format" : "image",
+    "displayName" : "Starlink.png"
+  },
+  {
+    "libraryIdentifier" : "5df6d3425f30f4bec52709f3facde487",
+    "format" : "image",
+    "displayName" : "Weather.png"
+  },
+  {
+    "libraryIdentifier" : "3c9ccff0f40931716482f5069dea117a",
+    "format" : "image",
+    "displayName" : "Planet Labs.png"
+  },
+  {
+    "libraryIdentifier" : "1236b664ece1b9e9444c31db2fca40cc",
+    "format" : "image",
+    "displayName" : "Welcome.png"
   }
 ]
