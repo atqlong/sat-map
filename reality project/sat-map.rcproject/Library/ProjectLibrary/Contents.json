@@ -243,5 +243,165 @@
     "libraryIdentifier" : "1236b664ece1b9e9444c31db2fca40cc",
     "format" : "image",
     "displayName" : "Welcome.png"
+  },
+  {
+    "libraryIdentifier" : "4e449d0e18cacaf5c08978fd438de2a5",
+    "format" : "image",
+    "displayName" : "Title.png"
+  },
+  {
+    "libraryIdentifier" : "6d614ea4614e124395e67699b62b4e82",
+    "format" : "image",
+    "displayName" : "Title.png"
+  },
+  {
+    "libraryIdentifier" : "cd43632cea5b2ce8da3eb774c817a044",
+    "format" : "image",
+    "displayName" : "BeiDou.png"
+  },
+  {
+    "libraryIdentifier" : "87b70a48985d929f4478695b9eb67d1b",
+    "format" : "image",
+    "displayName" : "FENGYUN.png"
+  },
+  {
+    "libraryIdentifier" : "e3d664bbfcb8fdc58bee3ee80ad80cf1",
+    "format" : "image",
+    "displayName" : "Galileo.png"
+  },
+  {
+    "libraryIdentifier" : "994a4d51965764620f5f5628ce77dd45",
+    "format" : "image",
+    "displayName" : "Geo-Comms.png"
+  },
+  {
+    "libraryIdentifier" : "62dba307940098a9628e006511e22911",
+    "format" : "image",
+    "displayName" : "Glonass.png"
+  },
+  {
+    "libraryIdentifier" : "91fa804d7c21e605732d02589328c520",
+    "format" : "image",
+    "displayName" : "GPS.png"
+  },
+  {
+    "libraryIdentifier" : "7886f647d38d535d0157dcce36542d88",
+    "format" : "image",
+    "displayName" : "Iridium.png"
+  },
+  {
+    "libraryIdentifier" : "de0a93f4db5d7cc07fdf46f9b100c3f3",
+    "format" : "image",
+    "displayName" : "Kosmos.png"
+  },
+  {
+    "libraryIdentifier" : "47ccf106ff7977714f4df1f2299c8a90",
+    "format" : "image",
+    "displayName" : "OneWeb.png"
+  },
+  {
+    "libraryIdentifier" : "a7ef84dc1a391633ba819efdfd904fee",
+    "format" : "image",
+    "displayName" : "Planet Labs.png"
+  },
+  {
+    "libraryIdentifier" : "1f053380e450d0765c017464cea2c072",
+    "format" : "image",
+    "displayName" : "Space Stations.png"
+  },
+  {
+    "libraryIdentifier" : "ddab19856d34038d69448dddf970e30b",
+    "format" : "image",
+    "displayName" : "Starlink.png"
+  },
+  {
+    "libraryIdentifier" : "7ac1e4792ff6d28273b2467aadea44d4",
+    "format" : "image",
+    "displayName" : "Weather.png"
+  },
+  {
+    "libraryIdentifier" : "9e9de1053fd940565b0fe9d8aae9c76f",
+    "format" : "image",
+    "displayName" : "BeiDou.png"
+  },
+  {
+    "libraryIdentifier" : "4b6c2870a83a5699df7a085f641d2e12",
+    "format" : "image",
+    "displayName" : "FENGYUN.png"
+  },
+  {
+    "libraryIdentifier" : "917fc50da1b412332350ce68173af9ec",
+    "format" : "image",
+    "displayName" : "Galileo.png"
+  },
+  {
+    "libraryIdentifier" : "ad02a4573995bd45b9af43967d8f47e9",
+    "format" : "image",
+    "displayName" : "Geo-Comms.png"
+  },
+  {
+    "libraryIdentifier" : "d6090ec2e9abc1e096397924716fc62c",
+    "format" : "image",
+    "displayName" : "Glonass.png"
+  },
+  {
+    "libraryIdentifier" : "c3cae236d30973fddb5a582b838c0148",
+    "format" : "image",
+    "displayName" : "GPS.png"
+  },
+  {
+    "libraryIdentifier" : "722ba67e68c7e5aa42d90fe2d9a42ea9",
+    "format" : "image",
+    "displayName" : "Iridium.png"
+  },
+  {
+    "libraryIdentifier" : "121eea100151b06378944609d87f8db0",
+    "format" : "image",
+    "displayName" : "Kosmos.png"
+  },
+  {
+    "libraryIdentifier" : "860d2b98d6d6c87d46ef3fcdf82ad23a",
+    "format" : "image",
+    "displayName" : "OneWeb.png"
+  },
+  {
+    "libraryIdentifier" : "538bd922d4deb0ef1fa4834e635c5cd3",
+    "format" : "image",
+    "displayName" : "Planet Labs.png"
+  },
+  {
+    "libraryIdentifier" : "15884b96fdd68f2c37be52a2b4c2e6fc",
+    "format" : "image",
+    "displayName" : "Space Stations.png"
+  },
+  {
+    "libraryIdentifier" : "61f767e84df625594a0ba699b64444e3",
+    "format" : "image",
+    "displayName" : "Starlink.png"
+  },
+  {
+    "libraryIdentifier" : "2dc215bb6abc48f4cc5cc13a63f85a54",
+    "format" : "image",
+    "displayName" : "Weather.png"
+  },
+  {
+    "libraryIdentifier" : "e88898846240d270840be69e7ca0a630",
+    "format" : "image",
+    "displayName" : "hide-badge.png"
+  },
+  {
+    "libraryIdentifier" : "c124ba968bbf21ad1f106d9eb095eb20",
+    "format" : "image",
+    "displayName" : "Show debris.png"
+  },
+  {
+    "libraryIdentifier" : "473a334a3fe7f271c896339e84ca0d22",
+    "format" : "image",
+    "displayName" : "Show satellites.png"
+  },
+  {
+    "libraryIdentifier" : "d863fdbd4fd0e3aab9da6b791bb5d166",
+    "format" : "image",
+    "displayName" : "Show all.png"
   }
 ]
