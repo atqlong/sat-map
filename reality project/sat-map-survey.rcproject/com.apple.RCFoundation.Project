@@ -10766,21 +10766,21 @@
               "title" : "touch targets",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99882447719573975,
-                  9.3271955847740173e-07,
-                  0.048472553491592407,
+                  0.99991887807846069,
+                  9.32486670990329e-07,
+                  0.01273320522159338,
                   0,
-                  0.018899464979767799,
-                  0.92084908485412598,
-                  -0.38946071267127991,
+                  0.0041385390795767307,
+                  0.94568216800689697,
+                  -0.32506611943244934,
                   0,
-                  -0.044636521488428116,
-                  0.38991889357566833,
-                  0.91976666450500488,
+                  -0.012042119167745113,
+                  0.32509231567382812,
+                  0.9456055760383606,
                   0,
-                  -0.037358511239290237,
-                  0.45539289712905884,
-                  1.1855273246765137,
+                  0.0061108022928237915,
+                  0.39608845114707947,
+                  1.2114930152893066,
                   1
                 ],
                 "sceneTransform" : [
@@ -21539,21 +21539,21 @@
               "title" : "proximity",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.9999997615814209,
+                  0.99961334466934204,
                   1.4901161193847656e-08,
-                  -0.00062442664057016373,
+                  -0.027802975848317146,
                   0,
-                  -0.00037870669621042907,
-                  0.79542094469070435,
-                  -0.60605716705322266,
+                  -0.0075950650498270988,
+                  0.96196722984313965,
+                  -0.2730591893196106,
                   0,
-                  0.00049657287308946252,
-                  0.60605722665786743,
-                  0.79542094469070435,
+                  0.026745447888970375,
+                  0.27316465973854065,
+                  0.96159535646438599,
                   0,
-                  -0.022060884162783623,
-                  0.99518430233001709,
-                  1.509487509727478,
+                  0.010851149447262287,
+                  0.36851552128791809,
+                  1.4638059139251709,
                   1
                 ],
                 "sceneTransform" : [
@@ -22237,6 +22237,45 @@
                             }
                           ],
                           "__version" : 1
+                        },
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "animationStyle" : "basic",
+                                          "buildInAnimationType" : "none",
+                                          "distance" : 1,
+                                          "duration" : 1,
+                                          "fadeIn" : true,
+                                          "linearCoefficient" : 1,
+                                          "moveEase" : "easeInOut",
+                                          "respectPhysics" : false,
+                                          "target" : [
+                                            "153E4798-7C1D-4749-811C-3BACD523DF5E"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "show"
+                                        }
+                                      },
+                                      "identifier" : "7519B761-CD00-4CDC-B77E-CC7AC8742443",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "633DB7CA-7E44-40AB-B9D6-7ADCEA976A4E",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
                         }
                       ],
                       "color" : [
@@ -22257,7 +22296,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "85AD84CE-505F-4EFE-B654-5D82D292A055"
+                                    "85AD84CE-505F-4EFE-B654-5D82D292A055",
+                                    "D6925558-57F3-4242-946D-4F6157E454CA"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -22423,7 +22463,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "36BB00D3-0315-4B7D-82D9-18C12DFD3EDB"
+                                    "36BB00D3-0315-4B7D-82D9-18C12DFD3EDB",
+                                    "27A01072-7E2D-4CB7-A1A2-988A8C8CC74F"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -22589,7 +22630,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "AD31AE83-16B8-43B7-88B7-D7991BAB0F4B"
+                                    "AD31AE83-16B8-43B7-88B7-D7991BAB0F4B",
+                                    "EE5F182A-EF10-4AFE-B7DF-8F69A06C964D"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -22755,7 +22797,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "378C5489-2262-4501-A4A2-E74C31635B79"
+                                    "378C5489-2262-4501-A4A2-E74C31635B79",
+                                    "4468536E-A596-429B-A157-14B8869E88AC"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -22921,7 +22964,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "F78F61D3-4153-4958-8225-5C1694E79602"
+                                    "F78F61D3-4153-4958-8225-5C1694E79602",
+                                    "FF353D89-A31A-4EE9-B76A-7383697FFCF8"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -23087,7 +23131,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "ABF1E13D-6A6C-481C-855B-86AB15DE9F6C"
+                                    "ABF1E13D-6A6C-481C-855B-86AB15DE9F6C",
+                                    "DC7F0864-7B00-4CBE-853E-8865B6F509C4"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -23253,7 +23298,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "DE755676-54C4-495C-B00F-76EC6A4ABC7F"
+                                    "DE755676-54C4-495C-B00F-76EC6A4ABC7F",
+                                    "94BCBFB5-80B6-4C93-B079-B87F1E093FA5"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -23419,7 +23465,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "4FCD5419-829B-4EF8-B964-F6E04EAA158C"
+                                    "4FCD5419-829B-4EF8-B964-F6E04EAA158C",
+                                    "228B4D51-1B44-4874-ABF9-80FEA70C9B8D"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -23585,7 +23632,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "5EF31051-2FE9-42B7-9EA7-4CC154F49AF7"
+                                    "5EF31051-2FE9-42B7-9EA7-4CC154F49AF7",
+                                    "10840621-EFC0-4D44-A337-3FCA0EEE3ABD"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -23751,7 +23799,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "C2818A24-E5AA-4C46-A433-BAB90D3A372E"
+                                    "C2818A24-E5AA-4C46-A433-BAB90D3A372E",
+                                    "23ABB8D6-1C05-4D96-8500-3C7E40288427"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -23917,7 +23966,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "5ED483DC-5EF9-4BD5-8707-958D96D8BCE2"
+                                    "5ED483DC-5EF9-4BD5-8707-958D96D8BCE2",
+                                    "D9710226-1659-4CBC-BE07-C5441DA52B8E"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -24083,7 +24133,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "7771B8D1-A688-40E3-A24C-95C2277D59D3"
+                                    "7771B8D1-A688-40E3-A24C-95C2277D59D3",
+                                    "B629D917-BA0F-44DE-B84B-D833A71DBA11"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -24249,7 +24300,8 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "EA7E9CE0-AC06-46C4-8EDC-B6A1EF986D16"
+                                    "EA7E9CE0-AC06-46C4-8EDC-B6A1EF986D16",
+                                    "4518D3D3-438A-4C9C-B356-347890BE4EDF"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -36817,21 +36869,21 @@
               "title" : "control panel",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.9982532262802124,
-                  5.499459234670212e-07,
-                  -0.059079933911561966,
+                  0.99995511770248413,
+                  5.504116415977478e-07,
+                  0.0094700083136558533,
                   0,
-                  -0.018157005310058594,
-                  0.95160424709320068,
-                  -0.30678912997245789,
+                  0.0067519512958824635,
+                  0.70117402076721191,
+                  -0.71295809745788574,
                   0,
-                  0.05622047558426857,
-                  0.30732652544975281,
-                  0.94994187355041504,
+                  -0.0066405725665390491,
+                  0.71299052238464355,
+                  0.70114213228225708,
                   0,
-                  -0.047365237027406693,
-                  0.44015505909919739,
-                  1.4090301990509033,
+                  0.03253752738237381,
+                  1.0187859535217285,
+                  1.2038170099258423,
                   1
                 ],
                 "sceneTransform" : [
