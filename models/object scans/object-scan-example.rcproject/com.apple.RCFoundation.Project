@@ -1,0 +1,96 @@
+{
+  "__content" : [
+    {
+      "scenes" : [
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "name" : "object",
+                "url" : "arObject:cd57fbfbce28e996a96ae83568a6ace7\/globe-scan.arobject"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                -9.8000001907348633,
+                0
+              ],
+              "identifier" : "8001B3CA-998A-42AB-99F1-7EAC7976113E",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "5F0D4BA5-7687-496B-89E2-808465D95F88" : null,
+                  "29151DA4-EC90-465D-BA20-6F28067843EC" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "Scene",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.99949806928634644,
+                  -5.5879354476928711e-09,
+                  -0.031677998602390289,
+                  0,
+                  0.001908085192553699,
+                  0.99818456172943115,
+                  0.060198821127414703,
+                  0,
+                  0.03162023052573204,
+                  -0.060228940099477768,
+                  0.99768358469009399,
+                  0,
+                  0.14280171692371368,
+                  0.10777930915355682,
+                  0.9469761848449707,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        }
+      ],
+      "tags" : {
+        "__content" : [
+          {
+            "tagsStore" : {
+
+            }
+          }
+        ],
+        "__version" : 1
+      }
+    }
+  ],
+  "__version" : 1
+}
